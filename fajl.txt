@@ -1,3 +1,4 @@
 ja sam fajl.txt
 cao
 volim da jedem kobase
+volim i kulene isto
